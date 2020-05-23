@@ -1,0 +1,3 @@
+DEBUG   2020-05-23 12:08:29,761 [main] devpinoyLogger  - Loaded config properties
+DEBUG   2020-05-23 12:08:29,763 [main] devpinoyLogger  - Loaded OR properties
+DEBUG   2020-05-23 12:08:29,764 [main] devpinoyLogger  - Inside local environment code
