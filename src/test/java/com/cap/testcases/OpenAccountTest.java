@@ -13,8 +13,6 @@ import com.cap.utilities.TestUtil;
 public class OpenAccountTest extends TestBase {
 	@Test(dataProviderClass = TestUtil.class, dataProvider = "dp")
 	public void openAccountTest(Hashtable<String, String> data) {
-		
-		Assert.fail();
 
 		click("openAccounBtn_CSS");
 		select("customer_CSS", data.get("customer"));
