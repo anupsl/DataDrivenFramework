@@ -1,0 +1,7 @@
+DEBUG   2020-05-12 14:25:38,542 [main] devpinoyLogger  - Loaded config properties
+DEBUG   2020-05-12 14:25:38,544 [main] devpinoyLogger  - Loaded OR properties
+DEBUG   2020-05-12 14:25:42,871 [main] devpinoyLogger  - Firefox browser launched...!
+DEBUG   2020-05-12 14:25:46,894 [main] devpinoyLogger  - navigated to url http://www.way2automation.com/angularjs-protractor/banking/#/login
+DEBUG   2020-05-12 14:25:46,928 [main] devpinoyLogger  - Inside login test..!
+DEBUG   2020-05-12 14:25:49,031 [main] devpinoyLogger  - Login test Complete..!
+INFO    2020-05-12 14:25:52,886 [main] devpinoyLogger  - Test case executed..!
